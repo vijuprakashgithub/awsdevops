@@ -3,3 +3,4 @@ Line 2 [Smooth merge and second commit]
 Line 3 [conflict merge]
 Line 4 [conflict merge]
 Line 4 by Feature 2
+Line 5 by feature2
