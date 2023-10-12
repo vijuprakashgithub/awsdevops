@@ -1,5 +1,6 @@
 Line 1 [First commit]
 <<<<<<< HEAD
+<<<<<<< HEAD
 Line 2 [Smooth merge and second commit]
 Line 3 [conflict merge]
 Line 4 [conflict merge]
@@ -10,4 +11,11 @@ Line 2 [Smooth merge and second commit]
 Line 2 [Smooth merge and second commit]
 Line 3 [conflict merge here]
 BUV
+>>>>>>> feature1
+||||||| 4630574
+Line 2 [Smooth merge and second commit]
+=======
+Line 2 [Smooth merge and second commit]
+Line 3 [conflict merge here]
+BUV Viju
 >>>>>>> feature1
