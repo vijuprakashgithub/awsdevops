@@ -1,5 +1,13 @@
 Line 1 [First commit]
+<<<<<<< HEAD
 Line 2 [Smooth merge and second commit]
 Line 3 [conflict merge]
 Line 4 [conflict merge]
 Line 4 by Feature 2
+||||||| 4630574
+Line 2 [Smooth merge and second commit]
+=======
+Line 2 [Smooth merge and second commit]
+Line 3 [conflict merge here]
+BUV
+>>>>>>> feature1
